@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1A044B11"
+    tools:context=".onBoarding"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="320dp"
+            android:src="@drawable/ss_image"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Selamat Datang Di Aplikasi"
+            android:textSize="20sp"
+            android:textStyle="normal"
+            android:textColor="@color/black"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="MieCustom"
+            android:textColor="@color/purple_700"
+            android:textSize="32sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Aplikasi yang membantu kamu untuk"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:textColor="@color/purple_700"
+            android:gravity="center"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="pesan mie sesuai seleramu"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            android:textColor="@color/purple_700"
+            android:gravity="center"/>
+
+        <Button
+            android:id="@+id/getstarted"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="56dp"
+            android:layout_marginEnd="56dp"
+            android:text="Get Started"
+            android:textAllCaps="false"
+            android:textSize="16sp"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:background="@drawable/btn_ss"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+</LinearLayout>

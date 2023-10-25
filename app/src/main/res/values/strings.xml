@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Ilham Collection</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_home">Home</string>
+    <string name="title_custom_mie">Custom Mie</string>
+    <string name="title_transaction">Transaction</string>
+    <string name="title_setting">Setting</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="submit">Submit</string>
+    <string name="error_while_logging_in">Error while logging in</string>
+    <string name="registration">Registration</string>
+    <string name="enter_name">Enter name</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="logout">LOGOUT</string>
+    <string name="fetch_user">FETCH USER</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="title_activity_homepage2">Homepage2</string>
+    <string name="custom_mie">Custom</string>
+    <string name="title_transactions">Transaction</string>
+    <string name="title_settings">Setting</string>
+    <string name="title_menu_paketan">Menu Paketan</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_firstname">Enter firstname</string>
+    <string name="enter_lastname">Enter lastname</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_repassword">Enter repassword</string>
+    <string name="enter_address">Enter address</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="register_here">Register here</string>
+    <string name="test">test</string>
+    <string name="mau_makan_apa_hari_ini">Mau makan apa hari ini?</string>
+    <string name="login_here">Login here</string>
+    <string name="have_account">Have account?</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart_fragment">Cart</string>
+    <string name="cart">Cart</string>
+    <string name="title_activity_pre_homepage">PreHomepage</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_history">History</string>
+</resources>
